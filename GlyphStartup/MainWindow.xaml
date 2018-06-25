@@ -1,0 +1,24 @@
+﻿<Window x:Class="GlyphStartup.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:h="http://helix-toolkit.org/wpf"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        Title="MainWindow" Height="625" Width="712"  Closing="Window_Closing" Icon="/GlyphStartup;component/Logo-TU-blue-3D.ico" WindowState="Maximized" WindowStyle="None">
+    <Grid>
+        <Image  HorizontalAlignment="Left" Name="image1" Stretch="UniformToFill" VerticalAlignment="Top"  />
+     <!--   <Canvas Focusable="True"> -->
+            
+            <h:HelixViewport3D x:Name="viewPort3d" Grid.Row="1" CameraRotationMode="Trackball" ZoomExtentsWhenLoaded="True" >
+                <h:HelixViewport3D.Camera>
+                    <OrthographicCamera Position="0, 0, 0"  LookDirection="0, 1, 0" UpDirection="0, 0, 1" />
+                </h:HelixViewport3D.Camera>
+                <h:DefaultLights/>
+                <ModelVisual3D x:Name="ModelArea">
+                    <h:FileModelVisual3D x:Name="model1" />                    
+                </ModelVisual3D>
+            </h:HelixViewport3D>
+            <Button  Content="Галерии" Height="44" Name="button1" Width="90" OpacityMask="#39000000" Focusable="True" Click="button1_Click" Margin="5,5" HorizontalAlignment="Right" VerticalAlignment="Top" />
+        <Button  Content="Изход" Height="44" Name="button2" Width="90" BorderBrush="#FF707070" OpacityMask="#39000000" Click="button2_Click" Margin="5,60" HorizontalAlignment="Right" VerticalAlignment="Top" />
+     <!--   </Canvas> -->
+    </Grid>
+</Window>

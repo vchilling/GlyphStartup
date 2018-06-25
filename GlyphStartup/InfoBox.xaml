@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="GlyphStartup.InfoBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <ListBox ItemsSource="{Binding}" ScrollViewer.HorizontalScrollBarVisibility="Disabled" Name="lstGalleries">
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <UniformGrid Rows="1" Columns="1"/>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <TextBlock x:Name="Name" Text="{Binding Path=Name, Mode=TwoWay}" Padding="10" FontSize="20" FontWeight="Bold" FontStretch="Normal" FontFamily="Arial" OpacityMask="{x:Null}" Foreground="Navy"></TextBlock>
+                        <TextBlock x:Name="Description" Text="{Binding Path=Description, Mode=TwoWay}" Padding="10" FontSize="20" FontStretch="Normal" FontFamily="Arial" OpacityMask="{x:Null}" Foreground="Navy"></TextBlock>
+                        <TextBlock x:Name="Address" Text="{Binding Path=Address, Mode=TwoWay}" Padding="10" FontSize="20" FontStretch="Normal" FontFamily="Arial" OpacityMask="{x:Null}" Foreground="Navy"></TextBlock>
+                     </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</UserControl>

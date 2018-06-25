@@ -1,0 +1,78 @@
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\obj\x86\Debug\MainWindow.baml
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\obj\x86\Debug\MainWindow.g.cs
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\obj\x86\Debug\App.g.cs
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup_MarkupCompile.cache
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.g.resources
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.Properties.Resources.resources
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.csproj.GenerateResource.Cache
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\bin\Debug\GlyphStartup.exe
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\bin\Debug\GlyphStartup.pdb
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\bin\Debug\AForge.Controls.dll
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\bin\Debug\AForge.dll
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\bin\Debug\AForge.Imaging.dll
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\bin\Debug\AForge.Imaging.IPPrototyper.dll
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\bin\Debug\AForge.Math.dll
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\bin\Debug\AForge.Video.dll
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\bin\Debug\AForge.Vision.GlyphRecognition.dll
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\bin\Debug\AForge.Vision.GlyphRecognition.pdb
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\bin\Debug\AForge.Vision.GlyphRecognition.xml
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.exe
+c:\users\boyan petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.pdb
+C:\Users\Boyan Petrov\documents\visual studio 2010\Projects\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.csprojResolveAssemblyReference.cache
+D:\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\GlyphStartup.exe
+D:\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\GlyphStartup.pdb
+D:\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\HelixToolkit.dll
+D:\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\HelixToolkit.Wpf.dll
+D:\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\Newtonsoft.Json.dll
+D:\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\HelixToolkit.pdb
+D:\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\HelixToolkit.xml
+D:\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\HelixToolkit.Wpf.pdb
+D:\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\HelixToolkit.Wpf.xml
+D:\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\Newtonsoft.Json.xml
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.csprojResolveAssemblyReference.cache
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GalleryList.baml
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\MainWindow.baml
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GalleryChooser.g.cs
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GalleryList.g.cs
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\MainWindow.g.cs
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\App.g.cs
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup_MarkupCompile.cache
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup_MarkupCompile.lref
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GalleryChooser.baml
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.g.resources
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.Properties.Resources.resources
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.csproj.GenerateResource.Cache
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.exe
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.pdb
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\InfoBox.baml
+D:\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\InfoBox.g.cs
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.exe
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.pdb
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\GlyphStartup.exe
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\GlyphStartup.pdb
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\HelixToolkit.dll
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\HelixToolkit.Wpf.dll
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\Newtonsoft.Json.dll
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\HelixToolkit.pdb
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\HelixToolkit.xml
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\HelixToolkit.Wpf.pdb
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\HelixToolkit.Wpf.xml
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\bin\Debug\Newtonsoft.Json.xml
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.csprojResolveAssemblyReference.cache
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GalleryList.baml
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\InfoBox.baml
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\MainWindow.baml
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GalleryChooser.g.cs
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GalleryList.g.cs
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\InfoBox.g.cs
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\MainWindow.g.cs
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\App.g.cs
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup_MarkupCompile.cache
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup_MarkupCompile.lref
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GalleryChooser.baml
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.g.resources
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.Properties.Resources.resources
+D:\University\дипломна работа\Final\GlyphStartup\GlyphStartup\GlyphStartup\obj\x86\Debug\GlyphStartup.csproj.GenerateResource.Cache
